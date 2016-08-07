@@ -1,0 +1,16 @@
+body{
+  padding-top: 50px;
+}
+
+.carousel-image{
+  width: 100%;
+}
+
+.hero-unit {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+}
